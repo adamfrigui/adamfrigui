@@ -1,5 +1,5 @@
 
-<h3 align="center">![MasterHead](https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif)</h3>
+<div align="center">![MasterHead](https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif)</div>
 <h1 align="center">Hi 👋, I'm Adam Frigui</h1>
 <h3 align="center">A Full-stack developer from Tunisia</h3>
 <h3 align="center"><img width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif"/></h3>
